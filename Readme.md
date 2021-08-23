@@ -37,9 +37,9 @@
 
  ---
 
-[![Ahmed Radi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-radi&count_private=true&show_icons=true&theme=default)](https://github.com/Ahmed-radi/github-readme-stats)
+[![Ahmed Radi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-radi&count_private=true&show_icons=true&theme=default)](https://github.com/Ahmed-radi)
 
-[![Ahmed Radi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ahmedradi)](https://github.com/Ahmed-radi/github-readme-stats)
+[![Ahmed Radi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ahmedradi)](https://github.com/Ahmed-radi)
 
 
 
