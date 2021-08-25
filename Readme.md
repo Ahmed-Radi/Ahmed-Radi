@@ -42,9 +42,6 @@
 ![Ahmed Radi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ahmedradi)
 
 
-
-<!-- [website]: https://codeSTACKr.com -->
-<!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/AhmedRadi743
 [youtube]: https://www.youtube.com/channel/UCArOdQaYzAcq_0bBOCkvVpw
 [linkedin]: https://www.linkedin.com/in/eng-ahmedradi/
