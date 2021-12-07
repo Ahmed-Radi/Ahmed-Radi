@@ -3,11 +3,11 @@
 ![Website](https://img.shields.io/website?label=Ahmed-Radi&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)
 
 
-## I'm a Developer, and Teacher!!
+## I'm a FrontEnd Developer!!
 
 - 🌱 I’m currently learning React.js soon I will start node.js 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Start job as React.js Developer
+- 🥅 2022 Goals: Start job as React.js Developer
 
 ### Connect with me:
 
