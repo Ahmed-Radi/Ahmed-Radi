@@ -5,7 +5,7 @@
 
 ## I'm a FrontEnd Developer!!
 
-- 🌱 I’m currently learning React.js soon I will start node.js 🤣
+- 🌱 I’m currently learning React.js soon I will start node.js 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Start job as React.js Developer
 
@@ -38,8 +38,6 @@
  ---
 
 [![Ahmed Radi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-radi&count_private=true&show_icons=true&theme=default)](https://github.com/Ahmed-radi)
-
-![Ahmed Radi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ahmedradi)
 
 
 [twitter]: https://twitter.com/AhmedRadi743
