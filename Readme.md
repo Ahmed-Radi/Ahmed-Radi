@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahmed Radi - Front-End Developer 👋
 
 ![Website](https://img.shields.io/website?label=Ahmed-Radi&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)
-
+![GitHub Views](https://komarev.com/ghpvc/?username=ahmed-radi&style=flat)
 
 ## I'm a FrontEnd Developer!!
 
